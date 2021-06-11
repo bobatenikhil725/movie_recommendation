@@ -9,5 +9,7 @@ Number of clusters used for clustering is 8.
 
 DataSet used is MovieLens Data Set (Make necessary changes for the path of csv files)
 
+link for dataset: https://files.grouplens.org/datasets/movielens/ml-25m.zip
+
 
 
